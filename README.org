@@ -1,10 +1,9 @@
 * snappy
 
-Common Lisp implementation of Google's Snappy data compression library, which is also known as Zippy compression.
+Common Lisp implementation of Google's Snappy data compression library.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/brown/snappy.git   |
-| commit  | c973f94  |
-| systems | snappy |
+| commit  | 3d0a732                                   |
+| systems | snappy                                    |
 |---------+-------------------------------------------|
-
