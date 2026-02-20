@@ -2,8 +2,9 @@
 
 Common Lisp implementation of Google's Snappy data compression library.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/brown/snappy.git   |
-| commit  | 0bce8e5                                   |
-| systems | snappy                                    |
-|---------+-------------------------------------------|
+|---------+-----------------------------------------|
+| source  | git:https://github.com/brown/snappy.git |
+| commit  | 987c67e                                 |
+| systems | snappy                                  |
+|---------+-----------------------------------------|
+--------|
